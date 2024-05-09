@@ -11,7 +11,7 @@ canvas, video, #picture {
 }
 
 h1 {
-  color: #5400ec;
+  color: white; /* Changed from #5400ec to white */
   font-weight: 600;
 }
 
@@ -24,10 +24,10 @@ h1 {
   -ms-grid-row-align: center;
   align-self: center;
   border-radius: 4px;
-  background-color: #7733f4;
+  background-color: white; /* Changed from #7733f4 to white */
   box-shadow: 0 3px 3px 0 rgb(55 65 81 / 20%);
   font-family: proxima-nova, sans-serif;
-  color: #fff;
+  color: #000; /* Text color changed to black for visibility */
   font-size: 18px;
   font-weight: 700;
   text-align: center;
@@ -69,8 +69,8 @@ h1 {
 }
 
 #model-select {
-  background-color: #5400ec;
-  color: white;
+  background-color: white; /* Changed from #5400ec to white */
+  color: black; /* Text color changed to black for visibility */
   border: none;
   border-radius: 5px;
   padding: 10px;
