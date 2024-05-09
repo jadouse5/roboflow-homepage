@@ -39,10 +39,10 @@ var available_models = {
         ],
         "model": null
     },
-    "construction-site-safety": {
-        "name": "Worksite Safety",
-        "version": 27,
-        "confidence": 0.3,
+    "yaz-uidis": {
+        "name": "YAZ+",
+        "version": 2,
+        "confidence": 0.4,
         "video": "https://media.roboflow.com/homepage/Worksite_Safety/Screen_Recording_2023-02-15_at_11.09.23_AM.mov?ik-sdk-version=javascript-1.4.3&updatedAt=1676479657201",
         "imageGrid": [
             "https://media.roboflow.com/homepage/Worksite_Safety/Screenshot_2023-02-15_at_11.07.02_AM_Large.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1676480555712",
